@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/THEMAKERUP/RedzHub/refs/heads/main/Redzhub',true))()
